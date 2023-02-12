@@ -1,0 +1,17 @@
+[
+  [
+    'name' => 'Breakfast',
+  ],
+  [
+    'name' => 'Lunch'
+  ],
+  [
+    'name' => 'Dinner'
+  ],
+  [
+    'name' => 'Baked-goods'
+  ],
+  [
+    'name' => 'Dessert'
+  ],
+]
