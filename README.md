@@ -23,7 +23,7 @@ I am using DataGrip from **JetBrains**, you can use any client. I also recommend
 ## Web Server
 
 We will be using Xampp, it is a preconfigured web server solution package. It will install PHP, APACHE, and MySQL, which is what we need in the project.
-I am using **PHP 8.1.x** 
+I am using **PHP 8.0.x** 
 download link: https://www.apachefriends.org/download.html
 
 ## PHP Package Manager
